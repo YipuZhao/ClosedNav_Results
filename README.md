@@ -13,3 +13,18 @@
 - MSCKF Stereo https://github.com/YipuZhao/msckf_vio
 
 Compared to the official repos, the baseline methods in my repo are with explicit logging on pose tracking and time cost.
+
+## References
+
+	@article{zhao2019robust,
+	  title={Robust, Low-Latency, Feature-Based Visual-Inertial SLAM for Improved Closed-Loop Navigation},
+	  author={Zhao, Yipu and Smith, Justin S. and Vela, Patricio A.},
+	  journal={submitted to IEEE Conference on Decision and Control},
+	  year={2019}
+	}	
+
+## Contact information
+
+- Yipu Zhao		yipu.zhao@gatech.edu
+- Justin S. Smith   jssmith@gatech.edu
+- Patricio A. Vela	pvela@gatech.edu
