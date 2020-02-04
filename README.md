@@ -6,7 +6,7 @@
 - Gazebo simulation [http://gazebosim.org/tutorials?tut=ros_overview]
 
 ### VO/VSLAM/VINS Systems Assessed
-- GF-ORB-SLAM Stereo + Inertial Fusion [https://github.com/YipuZhao/gf_orb_slam2]
+- GF-ORB-SLAM Stereo + Inertial Fusion [https://github.com/ivalab/gf_orb_slam2]
 - ORB-SLAM Stereo + Inertial Fusion [same as above]
 - SVO Stereo + Inertial Fusion https://github.com/YipuZhao/rpg_svo
 - VINS-Fusion https://github.com/YipuZhao/VINS-Fusion
@@ -17,10 +17,10 @@ Compared to the official repos, the baseline methods in my repo are with explici
 ## References
 
 	@article{zhao2019robust,
-	  title={Robust, Low-Latency, Feature-Based Visual-Inertial SLAM for Improved Closed-Loop Navigation},
-	  author={Zhao, Yipu and Smith, Justin S. and Vela, Patricio A.},
-	  journal={submitted to IEEE Conference on Decision and Control},
-	  year={2019}
+	  title={Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy},
+	  author={Zhao, Yipu and Smith, Justin S. and Karumanchi, Sambhu H. and Vela, Patricio A.},
+	  journal={IEEE Conference on Robotics and Automation},
+	  year={2020}
 	}	
 
 ## Contact information
