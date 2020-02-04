@@ -16,7 +16,7 @@ Compared to the official repos, the baseline methods in my repo are with explici
 
 ## References
 
-	@article{zhao2019robust,
+	@article{zhao2020closedLoop,
 	  title={Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy},
 	  author={Zhao, Yipu and Smith, Justin S. and Karumanchi, Sambhu H. and Vela, Patricio A.},
 	  journal={IEEE Conference on Robotics and Automation},
